@@ -33,7 +33,7 @@ public class Solution {
                     Thread.sleep(1000);
                     seconds++;
                 }
-                System.out.println(seconds);
+                //System.out.println(seconds);
             } catch (InterruptedException e) {
                 System.out.println(seconds);
             }
